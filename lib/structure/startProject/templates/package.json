@@ -1,0 +1,13 @@
+{
+    "name": "SwiftApplication",
+    "version": "0.0.1",
+    "private": true,
+    "scripts": {
+        "start": "node app"
+    },
+    "dependencies": {
+        "swift.mvc": "*",
+        "swig": "*",
+        "consolidate": "*"
+    }
+}

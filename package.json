@@ -1,0 +1,18 @@
+{
+    "author": "G@mOBEP <rusmiran@gmail.com>",
+    "name": "swift.manager",
+    "description": "swiftmanager",
+    "version": "0.0.1",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/gamover/swift.manager.git#master"
+    },
+    "dependencies": {
+        "swift.utils": "*"
+    },
+    "devDependencies": {},
+    "optionalDependencies": {},
+    "engines": {
+        "node": "*"
+    }
+}
